@@ -1,0 +1,124 @@
+1: APPETIZER ENTRÉE
+-  Gyoza (A1) 
+-  Croquettes de crevettes frits (A2) 
+-  Crevette frit (A3) 
+-  Nêms poulet (A4) 
+-  Nêms aux végétariens (A5) 
+-  Nêms crevettes (A6) 
+-  Tempura crevettes (A7) 
+-  Samoussa au boeuf (A8) 
+-  Edamame (A9) 
+-  Riz blanc
+-  Riz Thaï
+
+2: BENTO
+-  Boeuf citronnelle (BT1) 
+-  Poulet pané (BT2) 
+-  Végétarien (BT3) 
+
+3: BOISSONS
+-  Evian(50cl)
+-  Evian(100cl)
+-  San Pellegrino(50cl)
+-  San Pellegrino(100cl)
+-  Jus de fruits(25cl)
+-  Lait de soja
+-  Jus de coco
+-  Coca / Coca Zéro / Ice tea / Orangina (33cl) 
+-  Bière thaïlandaise Singha (33cl) 
+-  Bière Saigon (33cl)
+-  Bière "Tsing Tao" (33cl) 
+-  Côtes du Rhône(37.5cl)
+-  Côtes du Rhône(75cl)
+-  Blaye Côtes de Bordeaux(37.5cl)
+-  Blaye Côtes de Bordeaux(75cl)
+-  Brouilly(37.5cl)
+-  Brouilly(75cl)
+-  Côtes du Provence(37.5cl)
+-  Côtes du Provence(75cl)
+-  Tavel(37.5cl)
+-  Tavel(75cl)
+-  Risling(37.5cl)
+-  Risling(75cl)
+-  Sancerre blanc(37.5cl)
+-  Sancerre blanc(75cl)
+
+4: DESSERT
+-  Mochi(2 pièces)
+-  Mochi glacé(2 pièces)
+-  Lychee au sirop
+-  Tapioca à la mangue et au lait de coco
+-  Nougats sésame
+-  Gingembre confit
+-  Perles de coco
+
+5: MENU MIXTE
+-  Entrée + Plat
+-  Plat + Dessert
+
+6: NOS BOBUN
+-  Boeuf (B1) 
+-  Poulet grillé citronnelle (B2) 
+-  Poulet pané et aux crevette tempura (B3) 
+-  Saumon grillé (B4) 
+-  Crevettes (B5) 
+-  Végétarien (B6) 
+
+7: NOUILLE SAUTÉE
+-  Canard (P1N) 
+-  Crevettes (P2N) 
+-  Poulet pané (P3N) 
+-  Tofu aux légumes (P4N) 
+-  Boeuf (P5N) 
+-  Boeuf saté (P5NS) 
+
+8: PHO
+-  Spéciale (S1) 
+-  Boeuf cru et aux boulette (S2) 
+-  Boeuf cru (S3) 
+-  Boeuf cuit (S4) 
+-  Boulettes de boeuf (S5) 
+-  Poulet (S6) 
+
+9: PLAT + RIZ
+-  Poulet grillé à la citronnelle (R5) 
+-  Riz au canard laqué (R6) 
+-  Boeuf sauté façon "Loc Lac" (R7) 
+-  R8 Crevettes sautées façon "Loc Lac" (R8) 
+
+10: PÂTES THAÏ
+-  Canard (P1) 
+-  Crevettes (P2) 
+-  Poulet (P3) 
+-  Tofu aux légumes (P4) 
+-  Boeuf (P5) 
+-  Boeuf saté (P5S) 
+
+11: RIZ SAUTÉ
+-  Boeuf thaï (R1) 
+-  Tofu aux légumes (R2) 
+-  Crevette thaï (R3) 
+-  Poulet au curry et lait de coco thaï (R9) 
+
+12: SALADES
+-  Salade d’algue (G1) 
+-  Salade de papaye aux crevettes (G2) 
+-  Salade de boeuf citronnelle (G4) 
+-  Rouleaux de printemps(Végétariens) (G5) 
+-  Rouleaux de printemps(Boeuf) (G6) 
+-  Rouleaux de printemps(Crevette) (G7) 
+-  Rouleaux de printemps(Boulet) (G8) 
+
+13: SOUPE DE NOUILLES
+-  Boeuf (S7) 
+-  Crevettes (S8) 
+-  Légumes (S9) 
+-  Canard (S10) 
+-  Raviolis aux crevettes (S14) 
+
+14: VAPEURS
+-  Crêpe vietnamienne aux crevettes (V1) 
+-  Crêpe vietnamienne au poulet (V2) 
+-  Raviolis aux crevettes(4 pièces) (V3) 
+-  Bouchées aux crevettes(4 pièces) (V4) 
+-  Assortiment vapeur(4 pièces) (V5) 
